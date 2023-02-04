@@ -1,5 +1,5 @@
 ### Hi there, I'm Liban 👨🏾‍💻,
-A Full Stack Software Engineer 🎯 and designer🎨 from Minneapolis.
+A Full Stack Software Engineer 🎯 and designer🎨 from Minnesota.
 
 
 **Languages:**  
